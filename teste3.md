@@ -16,4 +16,4 @@ f) 2, 10, 12, 16, 17, 18, 19, __ <br>
 <strong>c) 49</strong> (O quadrado dos números naturais em ordem crescente. Ex: 1x1, 2x2, 3x3...) <br>
 <strong>d) 100</strong> (O quadrado dos números naturais contados de 2 em 2. Ex: 2x2, 4x4, 6x6...) <br>
 <strong>e) 13</strong> (A soma dos dois números anteriores) <br>
-<strong>f)</strong> 
+<strong>f) 200</strong> (Todos os números que começam com a letra "D")
