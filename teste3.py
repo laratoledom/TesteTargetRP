@@ -1,1 +1,0 @@
-# Descubra a lógica
