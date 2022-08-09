@@ -25,11 +25,11 @@ Ao final do processamento, qual será o valor da variável SOMA? <br><br>
 <strong>3)</strong> Descubra a lógica e complete o próximo elemento:
 
 <strong>a)</strong> 1, 3, 5, 7, ___ <br>
-<strong>b)</strong> 2, 4, 8, 16, 32, 64, ____ <br>
-<strong>c)</strong> 0, 1, 4, 9, 16, 25, 36, ____ <br>
-<strong>d)</strong> 4, 16, 36, 64, ____ <br>
-<strong>e)</strong> 1, 1, 2, 3, 5, 8, ____ <br>
-<strong>f)</strong> 2,10, 12, 16, 17, 18, 19, ____ <br><br>
+<strong>b)</strong> 2, 4, 8, 16, 32, 64, ___ <br>
+<strong>c)</strong> 0, 1, 4, 9, 16, 25, 36, ___ <br>
+<strong>d)</strong> 4, 16, 36, 64, ___ <br>
+<strong>e)</strong> 1, 1, 2, 3, 5, 8, ___ <br>
+<strong>f)</strong> 2,10, 12, 16, 17, 18, 19, ___ <br><br>
 
 <strong>4)</strong> Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
 
