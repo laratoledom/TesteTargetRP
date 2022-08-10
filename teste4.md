@@ -2,7 +2,7 @@
 
 ### Resposta:
 
-Quando se cruzarem, ambos os automóveis estarão à mesma distância de Ribeirão Preto pois estarão na mesma posição em relação ao ponto de referência, ao marco 0 (aqui dado como a própria cidade de Ribeirão Preto).
+Quando se cruzarem, ambos os automóveis estarão à mesma distância de Ribeirão Preto pois estarão na mesma posição em relação ao ponto de origem (ou referência), ao marco 0 (aqui dado como a própria cidade de Ribeirão Preto).
 
 <strong>Dados:</strong>
 - Velocidade constante do carro: 110 km/h
